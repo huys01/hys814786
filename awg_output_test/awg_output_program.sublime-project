@@ -1,0 +1,24 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        // SublimeLinter-contrib-xsim
+        "SublimeLinter.linters.xvlog.args":[
+            "-i", "$project_path/1_Source/09_USER_TEST",
+            "-i", "$project_path/1_Source/00_Header",
+            "--relax"
+        ],
+        "SublimeLinter.linters.xvlog_sv.args":[            
+        	"-i", "$project_path/1_Source/09_USER_TEST",
+            "-i", "$project_path/1_Source/00_Header",
+            "--relax"
+        ],
+        "SublimeLinter.linters.xvhdl.args":[
+            "--relax"
+        ]
+    }
+}

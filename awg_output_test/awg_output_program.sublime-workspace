@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TASK",
+				"TASKCORE_NUM"
+			],
+			[
+				"TAS",
+				"TASKCORE_NUM"
+			],
+			[
+				"g",
+				"generate"
+			],
+			[
+				"wait",
+				"wait_aurora2end"
+			],
+			[
+				"wait_aura",
+				"wait_aurora2send_tail"
+			],
+			[
+				"is",
+				"issend_head"
+			],
+			[
+				"ADDA_CH",
+				"ADDA_CHANNEL_NUMBER_PER_DDR"
+			],
+			[
+				"ADDA",
+				"ADDA_CHANNEL_NUMBER"
+			],
+			[
+				"ADD",
+				"ADDA_CHANNEL_NUMBER"
+			],
+			[
+				"gen",
+				"generate"
+			],
+			[
+				"gene",
+				"generate"
+			],
+			[
+				"ge",
+				"generate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Origin52103/Desktop/awg_final/1_Source/09_USER/USER_TOP.v",
+			"settings":
+			{
+				"buffer_size": 8171,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Origin52103/Desktop/awg_output_test",
+		"/C/Users/Origin52103/Desktop/awg_output_test/0_Library",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/00_Header",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/01_IP_CORE",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/06_DAC",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/07_PLL",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST",
+		"/C/Users/Origin52103/Desktop/awg_output_test/3_XilinxPrj"
+	],
+	"file_history":
+	[
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/waveform_output_module1.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/waveform_output_module.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/taskcore_module.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/taskcore_addr_wr_module.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/taskcore_ddr_data_buffer_module.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/taskcore_top.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/taskcore_conf_module.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/2_Simulation/tb_awg_output.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/waveform_output_top.v",
+		"/C/Users/Origin52103/Desktop/FPGA/AD_PRJ_20210830/1_Source/09_USER/config_top.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/USER_TOP.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/07_PLL/HMC7044_CFG.sv",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/sirv_gnrl_dffs.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/awg_output_program.sublime-project",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/sirv_gnrl_bufs.v",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/DAC_FPGA_TOP.sv",
+		"/C/Users/Origin52103/Desktop/awg_output_test/1_Source/09_USER_TEST/dac_output_top.v",
+		"/F/git/output_test_program/awg_output_program/awg_output_program.sublime-project",
+		"/F/git/output_test_program/awg_output_program/1_Source/09_USER_TEST/dac_output_top.v",
+		"/F/git/output_test_program/awg_output_program/1_Source/09_USER_TEST/USER_TOP.v",
+		"/F/git/output_test_program/awg_output_program/1_Source/09_USER_TEST/waveform_output_module.v",
+		"/F/git/output_test_program/awg_output_program/1_Source/09_USER_TEST/work_controller_module.v",
+		"/F/git/output_test_program/awg_output_program/1_Source/09_USER_TEST/waveform_output_top.v",
+		"/F/git/awg_final_version/1_Source/09_USER/taskcore_wf_wr_module.v",
+		"/F/git/adda_final/DA_PRJ_20210830/1_Source/09_USER/waveform_play_module.v",
+		"/F/git/adda_final/AD_PRJ_20210830/2_Simulation/tb_rst_module.v",
+		"/F/git/adda_final/AD_PRJ_20210830/1_Source/09_USER/config_top.v",
+		"/F/git/adda_final/AD_PRJ_20210830/1_Source/09_USER/taskcore_trigger_module.v",
+		"/F/git/adda_final/AD_PRJ_20210830/1_Source/09_USER/QPDAC_defines.vh",
+		"/F/git/adda_final/AD_PRJ_20210830/1_Source/09_USER/task_dispatch_module.v",
+		"/F/git/adda_final/AD_PRJ_20210830/1_Source/09_USER/config_work_controller_module.v",
+		"/F/git/adda_final/AD_PRJ_20210830/2_Simulation/tb_task_dispatch_module.v",
+		"/F/git/origin_program/adda_origin_program/AD_PRJ_20210830/1_Source/09_USER/QPDAC_defines.vh",
+		"/F/git/adda_final_version-2.0/adda_final_version_program/AD_PRJ_20210830/1_Source/09_USER/task_dispatch_module.v",
+		"/F/git/adda_final_version-2.0/adda_final_version_program/AD_PRJ_20210830/1_Source/09_USER/sirv_gnrl_dffs.v",
+		"/F/git/origin_program/adda_origin_program/AD_PRJ_20210830/1_Source/09_USER/gnrl_function.v",
+		"/F/git/origin_program/adda_origin_program/AD_PRJ_20210830/1_Source/09_USER/qubit_data_processing_mem_module.v",
+		"/F/git/origin_program/adda_origin_program/AD_PRJ_20210830/1_Source/09_USER/taskcore_origindata_dispatch_module.v",
+		"/F/git/origin_program/adda_origin_program/AD_PRJ_20210830/1_Source/09_USER/taskcore_origindata_combination_module.v"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"output_conf_req"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Origin52103/Desktop/awg_final/1_Source/09_USER/USER_TOP.v",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Verilog/Verilog.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "awg_output_program.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\git\\output_test_program\\awg_output_program\\awg_output_program.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

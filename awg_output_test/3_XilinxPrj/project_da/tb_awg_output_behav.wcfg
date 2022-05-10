@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_awg_output_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_awg_output" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4576547fs"></ZoomStartTime>
+      <ZoomEndTime time="5513548fs"></ZoomEndTime>
+      <Cursor1Time time="4732713fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="92"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/tb_awg_output/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/dac_ready" type="logic">
+      <obj_property name="ElementShortName">dac_ready</obj_property>
+      <obj_property name="ObjectShortName">dac_ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/trigger_out" type="logic">
+      <obj_property name="ElementShortName">trigger_out</obj_property>
+      <obj_property name="ObjectShortName">trigger_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/dac_lmfc" type="logic">
+      <obj_property name="ElementShortName">dac_lmfc</obj_property>
+      <obj_property name="ObjectShortName">dac_lmfc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/lmfc_r" type="array">
+      <obj_property name="ElementShortName">lmfc_r[23:0]</obj_property>
+      <obj_property name="ObjectShortName">lmfc_r[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/DAC_DATA0" type="array">
+      <obj_property name="ElementShortName">DAC_DATA0[127:0]</obj_property>
+      <obj_property name="ObjectShortName">DAC_DATA0[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/DAC_DATA1" type="array">
+      <obj_property name="ElementShortName">DAC_DATA1[127:0]</obj_property>
+      <obj_property name="ObjectShortName">DAC_DATA1[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/DAC_DATA2" type="array">
+      <obj_property name="ElementShortName">DAC_DATA2[127:0]</obj_property>
+      <obj_property name="ObjectShortName">DAC_DATA2[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/DAC_DATA3" type="array">
+      <obj_property name="ElementShortName">DAC_DATA3[127:0]</obj_property>
+      <obj_property name="ObjectShortName">DAC_DATA3[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/i_sync" type="logic">
+      <obj_property name="ElementShortName">i_sync</obj_property>
+      <obj_property name="ObjectShortName">i_sync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/i_trigger" type="logic">
+      <obj_property name="ElementShortName">i_trigger</obj_property>
+      <obj_property name="ObjectShortName">i_trigger</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/i_rst" type="logic">
+      <obj_property name="ElementShortName">i_rst</obj_property>
+      <obj_property name="ObjectShortName">i_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/i_duration" type="array">
+      <obj_property name="ElementShortName">i_duration[7:0]</obj_property>
+      <obj_property name="ObjectShortName">i_duration[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/interval" type="array">
+      <obj_property name="ElementShortName">interval[3:0]</obj_property>
+      <obj_property name="ObjectShortName">interval[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/state_ena" type="logic">
+      <obj_property name="ElementShortName">state_ena</obj_property>
+      <obj_property name="ObjectShortName">state_ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/state_nxt" type="array">
+      <obj_property name="ElementShortName">state_nxt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">state_nxt[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/state_r" type="array">
+      <obj_property name="ElementShortName">state_r[1:0]</obj_property>
+      <obj_property name="ObjectShortName">state_r[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/duration_count_ena" type="logic">
+      <obj_property name="ElementShortName">duration_count_ena</obj_property>
+      <obj_property name="ObjectShortName">duration_count_ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/duration_count_nxt" type="array">
+      <obj_property name="ElementShortName">duration_count_nxt[7:0]</obj_property>
+      <obj_property name="ObjectShortName">duration_count_nxt[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_awg_output/U08_USER_TOP/u_waveform_output_top/u_waveform_output_module1/duration_count_r" type="array">
+      <obj_property name="ElementShortName">duration_count_r[7:0]</obj_property>
+      <obj_property name="ObjectShortName">duration_count_r[7:0]</obj_property>
+   </wvobject>
+</wave_config>

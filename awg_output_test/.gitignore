@@ -1,0 +1,7 @@
+*.cache/
+*.sim/
+*.jou
+*.log
+*.ip_user_files/
+*.hw/
+*.Xil/
